@@ -1,1 +1,1 @@
-1.0.1|https://yourwebsite.com/downloads/executor_v1.0.1.exe
+1.0.2|https://github.com/incoo-github/drac-upd/releases/tag/v1.0.1
